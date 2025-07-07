@@ -1,0 +1,8 @@
+ <svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Green Circle -->
+  <circle cx="20" cy="20" r="18" fill="#28a745" stroke="#28a745" stroke-width="2"/>
+  <!-- First Triangle -->
+  <polygon points="13,12 20,20 13,28" fill="#ffffff"/>
+  <!-- Second Triangle -->
+  <polygon points="21,12 28,20 21,28" fill="#ffffff"/>
+</svg>
